@@ -1,5 +1,5 @@
 {
-    "name": "widop/http-adapter",
+    "name": "ottsch/http-adapter",
     "description": "Issue HTTP request.",
     "keywords": [ "request", "http" ],
     "type": "library",
